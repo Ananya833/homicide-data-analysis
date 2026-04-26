@@ -153,6 +153,8 @@ panel serve dashboard.ipynb\
 ```
 ---
 
+# Improve hosting documentation
+
 ## 📌 Final Note
 
 This project demonstrates a complete pipeline from raw data to an interactive analytical dashboard, combining **data preprocessing, visualization, and UI design**.
